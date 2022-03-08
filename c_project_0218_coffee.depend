@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1645664479 source:c:\workspace\c_project_0218_coffee\main.c
+	<stdio.h>
+	<stdlib.h>
+	<dos.h>
+
