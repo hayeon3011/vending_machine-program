@@ -548,3 +548,19 @@ void drink_sale_proceeds(){
 
 return;
 }
+
+<결과화면>
+
+![image](https://user-images.githubusercontent.com/100817638/173506714-323512fa-428f-450f-acd9-dc22167e557b.png)
+
+-관리자모드-
+
+![image](https://user-images.githubusercontent.com/100817638/173506773-645f99ba-6bdb-4f2f-922c-584be93c4701.png)
+![image](https://user-images.githubusercontent.com/100817638/173506788-0535bd28-2a4c-4fc7-9863-9adfcaf7c942.png)
+
+-고객모드-
+
+![image](https://user-images.githubusercontent.com/100817638/173506811-67a9f58d-b66a-4ca8-a19a-9c709b2daa43.png)
+
+
+
